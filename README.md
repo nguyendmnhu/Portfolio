@@ -14,7 +14,7 @@ Thank you for visiting. Warmly hug!
 ![kat](/images/kat.jpg)
 
 ## *MY PROJECTS*
-### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
+### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
 * Developed a robust model with accuracy score of 86% to predict the transportation rate of a Spaceship Titanic on Kaggle Data Competition.
 * Applied multiple imputation on approximately 10,000 raw data and train 5 different supervised machine learning algorithms to compare the accuracy score.
 * Identified the importance factors that impact the transportation rate.
@@ -25,7 +25,7 @@ Thank you for visiting. Warmly hug!
 
 ![rfe](/images/RFE_result.png)
 
-### [Analysis of Variance US Health Insurance](https://github.com/minhnhu510/Kat-s-Projects/tree/main/ANOVA%20on%20US%20Health%20Insuarance)
+### [Analysis of Variance US Health Insurance](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/ANOVA%20on%20US%20Health%20Insuarance)
 * Identified the affect of smoking status and number of children on insurance price to assist customers' decision, further to aid the provider with correct price range for each cases to minimize risks.
 * Methods: Hypothesis test, data cleaning, assumptions checking (i.e. Normality, homogeneity of variances, independence variables), Shapiro-Wilk test, ANOVA, Tukey's Test.
 * Language and packages used: R, dplyr, ggpubr, AID.
@@ -35,7 +35,7 @@ Thank you for visiting. Warmly hug!
 ![anova](/images/ANOVA_workflow.png)
 
 
-### [Exploratory Data Analysis Ecuador's Store Sales](https://github.com/minhnhu510/Kat-s-Projects/tree/main/EDA%20Store%20Sales)
+### [Exploratory Data Analysis Ecuador's Store Sales](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/EDA%20Store%20Sales)
 * Compared sales and analyzed the relationship between stores in Ecuador to support further predictions based on stores' location and type of products.
 * Identified the affect of holidays and oil prices on stores' transactions.
 * Cleaned and imputed over 83,000 raw data.
@@ -58,7 +58,7 @@ Thank you for visiting. Warmly hug!
 
 ![seir_ee](/images/SEIR_EE.png)
 
-### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Comparison%20between%20the%20Gut%20Microbiota%20of%20Yellow%20Fever%20Mosquitos)
+### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/Comparison%20between%20the%20Gut%20Microbiota%20of%20Yellow%20Fever%20Mosquitos)
 * Analyze variety of bacterias in the gut microbiota of Yellow Fever mosquitos while fed different type of blood to help further prevent and cure Aedes aegypti patients with mild to severe symptoms.
 * Methods: 16s rRNA Sequencing Data, Data Quality Control, Sequencing Alignment, Taxonomic Classification, OTU Clustering, KRONA Visualization
 * Platforms and materials used: Galaxy Bioinformatics Analysis Platform, Taxonomy Data, Silva Database Version 123, NCBI SRA Bioproject PRJNA541017
