@@ -10,7 +10,7 @@ Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [r
 
 Thank you for visiting. Warmly hug!
 
-![kat](https://github.com/minhnhu510/images/blob/main/kat.jpg)
+![kat](https://github.com/nguyendmnhu/images/blob/main/kat.jpg)
 
 ## *PROJECTS*
 ### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
