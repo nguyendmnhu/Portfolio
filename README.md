@@ -4,7 +4,7 @@ Welcome to my portfolio. My name is Dang Minh Nhu Nguyen and I go by Kat. I am a
 
 I love spending my spare time with my family and friends, cooking, traveling and even enjoying outdoor sunshine. 
 
-Contact me at: nguyendmnhu@gmail.com.
+Contact me at: [email](nguyendmnhu@gmail.com).
 
 Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. 
 
