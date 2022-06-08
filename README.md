@@ -41,7 +41,7 @@ Thank you for visiting. Warmly hug!
 * Methods: Data cleaning, EDA, data visualization.
 * Language and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
 
-![Holiday](/images/Holiday_type_vs20_city.png)
+![Holiday](/images/Holiday_type_vs_city.png)
 
 ![cluster transaction](/images/cluster_transaction.png)
 
