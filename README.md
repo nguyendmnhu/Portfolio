@@ -41,7 +41,7 @@ Thank you for visiting. Warmly hug!
 * Methods: Data cleaning, EDA, data visualization.
 * Language and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
 
-![Holiday](/images/Holiday_type_vs%20_city.png)
+![Holiday](/images/Holiday_type_vs20_city.png)
 
 ![cluster transaction](/images/cluster_transaction.png)
 
@@ -65,6 +65,7 @@ Thank you for visiting. Warmly hug!
 ![Human Fed](/images/Bio_human.png)
 
 ![Chicken Fed](/images/Bio_chicken.png)
+
 
 ## *ACHIEVEMENTS*
 [Research, Scholarship and Creative Activity Competition Winner](https://www.linkedin.com/posts/research-innovation-sjsu_sjsu-activity-6919381092948996096-WNgp?utm_source=linkedin_share&utm_medium=member_desktop_web)
