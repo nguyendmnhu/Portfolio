@@ -12,7 +12,7 @@ Thank you for visiting. Warmly hug!
 
 ![kat](/images/kat.jpg)
 
-## *PROJECTS*
+## *MY PROJECTS*
 ### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
 * Developed a robust model with accuracy score of 86% to predict the transportation rate of a Spaceship Titanic on Kaggle Data Competition.
 * Applied multiple imputation on approximately 10,000 raw data and train 5 different supervised machine learning algorithms to compare the accuracy score.
@@ -20,18 +20,18 @@ Thank you for visiting. Warmly hug!
 * Methods: Multiple Imputation,  Multiple Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, K-Nearest Neighbor, Random Forest, Recursive Feature elimination (RFE).
 * Language and packages used: R, MICE, caret, mlbench, MASS, class, randomForest.
 
-![spaceship](https://github.com/minhnhu510/images/blob/main/spaceship_workflow.png)
+![spaceship](/images/spaceship_workflow.png)
 
-![rfe](https://github.com/minhnhu510/images/blob/main/RFE_result.png)
+![rfe](/images/RFE_result.png)
 
 ### [Analysis of Variance US Health Insurance](https://github.com/minhnhu510/Kat-s-Projects/tree/main/ANOVA%20on%20US%20Health%20Insuarance)
 * Identified the affect of smoking status and number of children on insurance price to assist customers' decision, further to aid the provider with correct price range for each cases to minimize risks.
 * Methods: Hypothesis test, data cleaning, assumptions checking (i.e. Normality, homogeneity of variances, independence variables), Shapiro-Wilk test, ANOVA, Tukey's Test.
 * Language and packages used: R, dplyr, ggpubr, AID.
 
-![qq](https://github.com/minhnhu510/images/blob/main/QQplot.png)
+![qq](/images/QQplot.png)
 
-![anova](https://github.com/minhnhu510/images/blob/main/ANOVA_workflow.png)
+![anova](/images/ANOVA_workflow.png)
 
 
 ### [Exploratory Data Analysis Ecuador's Store Sales](https://github.com/minhnhu510/Kat-s-Projects/tree/main/EDA%20Store%20Sales)
@@ -41,9 +41,9 @@ Thank you for visiting. Warmly hug!
 * Methods: Data cleaning, EDA, data visualization.
 * Language and packages used: Python, Pandas, fancyImpute, matplotlib, plotly and seaborn.
 
-![Holiday](https://github.com/minhnhu510/images/blob/main/Holiday_type_vs%20_city.png)
+![Holiday](/images/Holiday_type_vs%20_city.png)
 
-![cluster transaction](https://github.com/minhnhu510/images/blob/main/cluster_transaction.png)
+![cluster transaction](/images/cluster_transaction.png)
 
 
 
@@ -53,25 +53,25 @@ Thank you for visiting. Warmly hug!
 * Methods: Mathematical modeling, Compartment model, Steady states, Stability checking.
 * Language and packages used: R, deSolve, ggplot2, reshape2.
 
-![seir_dfi](https://github.com/minhnhu510/images/blob/main/SEIR_DFI.png)
+![seir_dfi](/images/SEIR_DFI.png)
 
-![seir_ee](https://github.com/minhnhu510/images/blob/main/SEIR_EE.png)
+![seir_ee](/images/SEIR_EE.png)
 
 ### [Metagenomic Comparison between the Gut Microbiota of Yellow Fever Mosquitos (Aedes aegypti)](https://github.com/minhnhu510/Kat-s-Projects/tree/main/Comparison%20between%20the%20Gut%20Microbiota%20of%20Yellow%20Fever%20Mosquitos)
 * Analyze variety of bacterias in the gut microbiota of Yellow Fever mosquitos while fed different type of blood to help further prevent and cure Aedes aegypti patients with mild to severe symptoms.
 * Methods: 16s rRNA Sequencing Data, Data Quality Control, Sequencing Alignment, Taxonomic Classification, OTU Clustering, KRONA Visualization
 * Platforms and materials used: Galaxy Bioinformatics Analysis Platform, Taxonomy Data, Silva Database Version 123, NCBI SRA Bioproject PRJNA541017
 
-![Human Fed](https://github.com/minhnhu510/images/blob/main/Bio_human.png)
+![Human Fed](/images/Bio_human.png)
 
-![Chicken Fed](https://github.com/minhnhu510/images/blob/main/Bio_chicken.png)
+![Chicken Fed](/images/Bio_chicken.png)
 
 ## *ACHIEVEMENTS*
 [Research, Scholarship and Creative Activity Competition Winner](https://www.linkedin.com/posts/research-innovation-sjsu_sjsu-activity-6919381092948996096-WNgp?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-![Dean Scholar](https://github.com/minhnhu510/images/blob/main/dean_scholar.png)
+![Dean Scholar](/images/dean_scholar.png)
 
-![Associated Student Legacy Award](https://github.com/minhnhu510/images/blob/main/legacy_award.png)
+![Associated Student Legacy Award](/images/legacy_award.png)
 
 Dierks-Morgan Scholarship
 
