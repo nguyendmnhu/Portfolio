@@ -20,6 +20,7 @@ Thank you for visiting. Warmly hug!
 * Visualized the key queries with additional estimated prediction using Tableau software.
 * Skills: Converting Data Type, Joins, Aggregate Function, CTE's, Temp Tables, Creating Views
 * Language and tools used: SQL, Microsoft Azure (Azure Cloud), Azure Data Studio, Tableau, Microsoft Excel.
+(https://public.tableau.com/app/profile/dang.minh.nhu.nguyen/viz/EDA_COVID/Dashboard1)
 
 
 ### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
