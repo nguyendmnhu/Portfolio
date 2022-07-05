@@ -14,6 +14,14 @@ Thank you for visiting. Warmly hug!
 ![kat](/images/kat.jpg)
 
 ## *MY PROJECTS*
+### [Exploratory Data Analysis on COVID 19 data](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/SQL_Project/EDA%20Covid)
+* Analyzed the impact of with and without vaccination on total death rate of COVID 19 on approximately 200,000 data from Our World in Data.
+* Developed an automatic calculation to update the total vaccination by country and date.
+* Visualized the key queries with additional estimated prediction using Tableau software.
+* Skills: Converting Data Type, Joins, Aggregate Function, CTE's, Temp Tables, Creating Views
+* Language and tools used: SQL, Microsoft Azure (Azure Cloud), Azure Data Studio, Tableau, Microsoft Excel.
+
+
 ### [Predict Transportation Rate on a Spaceship Titanic](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/Transportation%20Rate%20Prediction)
 * Developed a robust model with accuracy score of 86% to predict the transportation rate of a Spaceship Titanic on Kaggle Data Competition.
 * Applied multiple imputation on approximately 10,000 raw data and train 5 different supervised machine learning algorithms to compare the accuracy score.
