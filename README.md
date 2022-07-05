@@ -17,7 +17,7 @@ Thank you for visiting. Warmly hug!
 ### [Exploratory Data Analysis on COVID 19 data](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/SQL_Project/EDA%20Covid)
 * Analyzed the impact of with and without vaccination on total death rate of COVID 19 on approximately 200,000 data from Our World in Data.
 * Developed an automatic calculation to update the total vaccination by country and date.
-* Visualized the key queries with additional estimated prediction using Tableau software.
+* Visualized the key queries with additional estimated prediction using [Tableau](https://public.tableau.com/views/EDA_COVID/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) software.
 * Skills: Converting Data Type, Joins, Aggregate Function, CTE's, Temp Tables, Creating Views
 * Language and tools used: SQL, Microsoft Azure (Azure Cloud), Azure Data Studio, Tableau, Microsoft Excel.
 
