@@ -7,7 +7,7 @@ I love spending my spare time with my family and friends, cooking, traveling and
 Contact me at: nguyendmnhu@gmail.com 
 
 
-Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my Tableau Public to see all of my amazing dashboards. My resume can be downloaded here [resume](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing) as well. 
+Please check out my [LinkedIn](http://www.linkedin.com/in/nguyendmnhu) and my [Tableau Public](https://public.tableau.com/app/profile/dang.minh.nhu.nguyen) to see all of my amazing dashboards. Download my resume[here](https://drive.google.com/file/d/1sLL-ShmP_IvbpxfNvv0bQ4YszKdVUeEf/view?usp=sharing).
 
 Thank you for visiting. Warmly hug!
 
