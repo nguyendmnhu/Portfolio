@@ -21,7 +21,7 @@ Thank you for visiting. Warmly hug!
 * Skills: Converting Data Type, Joins, Aggregate Function, CTE's, Temp Tables, Creating Views
 * Language and tools used: SQL, Microsoft Azure (Azure Cloud), Azure Data Studio, Tableau, Microsoft Excel.
 
-<script src="[https://www.example.com/javascripts/api/tableau-2.js](https://public.tableau.com/app/profile/dang.minh.nhu.nguyen/viz/EDA_COVID/Dashboard1)"></script>
+<script src="https://public.tableau.com/app/profile/dang.minh.nhu.nguyen/viz/EDA_COVID/Dashboard1"></script>
 
 <div id="tableauViz"></div>
 
