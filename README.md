@@ -1,6 +1,9 @@
-# Dang Minh Nhu Nguyen Portfolio (Kathdoly)
+# Dang Minh Nhu (Kat) Nguyen Portfolio 
 ## *ABOUT ME*
-Welcome to my portfolio. My name is Dang Minh Nhu Nguyen and I go by Kat. I am a San Jose State University student, graduated with major in Applied Mathematics and concentration in Statistics. I am passionate in developing models to identify risks, forecast the future to assist my clients, team, company with the best solutions. Currently, I am looking for a full time position at a company that focuses on technology, healthcare, business, finance or aerospace.
+
+Hi! My name is Dang Minh Nhu Nguyen, but I prefer to go by Kat! I am a 2022 graduate of San Jose State University (SJSU) with a Bachelor’s degree in Applied Mathematics, concentrating in Statistics. Working with numbers has always been a fascination of mine as I’ve found that many facts can only be uncovered with logical thinking and data. Exploring numbers and data provides me with the capability to think systematically without bias, leading me to identify authentic and verifiable answers. 
+
+With the guidance of my advisor Dr. Etu in my previous experience as a Research Ambassador at SJSU’s Research Foundation, I’ve been able to apply my data visualization and statistical analysis skills in realistic settings - the most recent being my social perception analysis on the COVID-19 impact on public transit systems (publication to come shortly!).  
 
 I love spending my spare time with my family and friends, cooking, traveling and even enjoying outdoor sunshine. 
 
