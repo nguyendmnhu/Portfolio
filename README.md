@@ -25,7 +25,8 @@ Thank you for visiting. Warmly hug!
 * Visualized the key queries with various slicers and What-If Filtering [Power BI](https://app.powerbi.com/groups/me/reports/117b7fe8-d4c1-4757-a7a1-960e87d1e0d5/ReportSection5d5ab9e44106cc8b7400?bookmarkGuid=cc85d1ea-eb76-4894-beec-0ee0a1405af9&bookmarkUsage=1&ctid=e85c5307-76b1-4c48-bc5d-e88373dda261&portalSessionId=6df6cdf7-c62c-4d23-8540-7186a7bd86f2&fromEntryPoint=export) software.
 * Skills: Joins, Aggregate Functions, ETL, CASE WHEN, Strings Concatenation, ISNULL Filtering, Date Filtering, WHERE, ORDER BY, What-If Parameters, DAX, Top N Filtering
 * Language and tools used: SQL, Microsoft SQL Server Management Studio, Power BI, Power Query, Microsoft Excel.
-![sales_overview](/images/sales.jpg)
+
+![sales_overview](/images/sales_overview.jpg)
 
 ![customer_details](/images/customer_details.jpg)
 
