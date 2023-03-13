@@ -26,7 +26,7 @@ Thank you for visiting. Warmly hug!
 * Skills: Joins, Aggregate Functions, ETL, CASE WHEN, Strings Concatenation, ISNULL Filtering, Date Filtering, WHERE, ORDER BY, What-If Parameters, DAX, Top N Filtering
 * Language and tools used: SQL, Microsoft SQL Server Management Studio, Power BI, Power Query, Microsoft Excel.
 
-![sales_overview](/images/sales_overview.jpg)
+![sales_overview](/sales_overview.jpg)
 
 ![customer_details](/images/customer_details.jpg)
 
