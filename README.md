@@ -17,6 +17,21 @@ Thank you for visiting. Warmly hug!
 ![kat](/images/kat.jpg)
 
 ## *MY PROJECTS*
+
+### [Sales and Budget Management](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/Sales%20and%20Budget%20Management)
+* Analyzed and developed a detailed plan to solve client's business request using updated AdventureWorks data from 01/2020 to 01/2023 with approximately 60,000 records.
+* Updated and cleaned data using various SQL techniques.
+* Loaded and transformed data using Power Query.
+* Visualized the key queries with various slicers and What-If Filtering [Power BI](https://app.powerbi.com/groups/me/reports/117b7fe8-d4c1-4757-a7a1-960e87d1e0d5/ReportSection5d5ab9e44106cc8b7400?bookmarkGuid=cc85d1ea-eb76-4894-beec-0ee0a1405af9&bookmarkUsage=1&ctid=e85c5307-76b1-4c48-bc5d-e88373dda261&portalSessionId=6df6cdf7-c62c-4d23-8540-7186a7bd86f2&fromEntryPoint=export) software.
+* Skills: Joins, Aggregate Functions, ETL, CASE WHEN, Strings Concatenation, ISNULL Filtering, Date Filtering, WHERE, ORDER BY, What-If Parameters, DAX, Top N Filtering
+* Language and tools used: SQL, Microsoft SQL Server Management Studio, Power BI, Power Query, Microsoft Excel.
+![sales_overview](/images/sales.jpg)
+
+![customer_details](/images/customer_details.jpg)
+
+![product_details](/images/product_details.jpg)
+
+
 ### [Exploratory Data Analysis on COVID 19 data](https://github.com/nguyendmnhu/Kat-s-Projects/tree/main/SQL_Project/EDA%20Covid)
 * Analyzed the impact of with and without vaccination on total death rate of COVID 19 on approximately 200,000 data from Our World in Data.
 * Developed an automatic calculation to update the total vaccination by country and date.
